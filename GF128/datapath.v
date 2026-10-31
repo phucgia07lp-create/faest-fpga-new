@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------------------
  * File                 : datapath.v
- * Author               : Hardware Team
+ * Author               : Claude
  * Created              : 31.10.2026
  * Last modified        : 31.10.2026
  * Description          : Datapath bộ nhân GF(2^128), đa thức x^128 + x^7 + x^2
