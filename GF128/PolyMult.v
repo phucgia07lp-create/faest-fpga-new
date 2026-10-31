@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------------------
  * File                 : PolyMult.v
- * Author               : Hardware Team
+ * Author               : Claude
  * Created              : 31.10.2026
  * Last modified        : 31.10.2026
  * Description          : Bộ nhân GF(2^DATA_WIDTH), mặc định GF(2^128) với đa
