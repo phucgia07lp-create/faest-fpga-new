@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------------------
  * File                 : controller.v
- * Author               : Hardware Team
+ * Author               : Claude
  * Created              : 31.10.2026
  * Last modified        : 31.10.2026
  * Description          : FSM điều khiển bộ nhân PolyMult. Ngõ ra là thanh ghi
